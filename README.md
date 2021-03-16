@@ -1,4 +1,4 @@
-#### Hi there
+#### Info about me
 
 I'm currently enrolled in Web Development and Data Structures at Oregon State University, having already completed three intro courses. 
 
