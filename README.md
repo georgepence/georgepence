@@ -1,6 +1,6 @@
 #### Info about me
 
-I'm currently enrolled in Web Development and Data Structures at Oregon State University, having already completed three intro courses. 
+I'm currently enrolled in Introduction to Databases at Oregon State University, having already completed five intro courses. 
 
 <!--
 **georgepence/georgepence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
