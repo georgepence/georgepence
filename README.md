@@ -1,5 +1,3 @@
-#### Info about me
-
 I'm currently enrolled in Sofware Engineering I at Oregon State University (Fall 2021), having already completed five intro courses. 
 
 <!--
