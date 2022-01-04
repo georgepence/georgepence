@@ -1,4 +1,4 @@
-I'm currently enrolled in Sofware Engineering II at Oregon State University (Winter 2021). 
+I'm currently enrolled in Sofware Engineering II at Oregon State University (Winter 2022). 
 
 <!--
 **georgepence/georgepence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
