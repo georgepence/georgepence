@@ -1,4 +1,4 @@
-I'm currently enrolled in Sofware Engineering II at Oregon State University (Spring 2022).
+I'm currently enrolled in Computer Architecture & Assembly Language at Oregon State University (Fall 2022).
 
 I have completed:
 
@@ -9,7 +9,6 @@ I have completed:
 - Introduction to Databases
 - Software Enginieering I & II
 
-I am currently taking Computer Architecture & Assembly Language
 
 <!--
 **georgepence/georgepence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
