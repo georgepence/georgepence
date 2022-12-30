@@ -1,4 +1,4 @@
-I'm currently enrolled in Computer Architecture & Assembly Language at Oregon State University (Fall 2022).
+I'm currently enrolled in Operating Systems at Oregon State University (Winter 2023).
 
 I have completed:
 
@@ -8,6 +8,7 @@ I have completed:
 - Data Structures
 - Introduction to Databases
 - Software Enginieering I & II
+- Computer Architecture & Assembly Language
 
 
 <!--
