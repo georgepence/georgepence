@@ -1,4 +1,4 @@
-I'm currently enrolled in Operating Systems at Oregon State University (Winter 2023).
+I'm currently enrolled in Operating Systems at Oregon State University (Spring 2023).
 
 I have completed:
 
