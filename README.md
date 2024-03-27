@@ -9,6 +9,8 @@ I have completed:
 - Introduction to Databases
 - Software Enginieering I & II
 - Computer Architecture & Assembly Language
+- Operating Systems I
+- Networking
 
 
 <!--
