@@ -1,4 +1,4 @@
-I'm currently enrolled in Operating Systems at Oregon State University (Spring 2023).
+I'm currently enrolled in Programming Language Fundamentals at Oregon State University (Spring 2024).
 
 I have completed:
 
