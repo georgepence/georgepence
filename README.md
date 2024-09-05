@@ -1,4 +1,4 @@
-I'm currently enrolled in Programming Language Fundamentals at Oregon State University (Spring 2024).
+I'm currently enrolled in Introduction to Security at Oregon State University (Fall 2024).
 
 I have completed:
 
