@@ -12,8 +12,10 @@ I have completed:
 - Operating Systems I
 - Networking
 - Programming Language Fundamentals
+- Usability Engineering
+- Algorithms
 
-After three more classes, I will graduate at the end of Spring term 2025.
+After one more class, I will graduate at the end of Spring term 2025.
 
 <!--
 **georgepence/georgepence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
