@@ -1,21 +1,4 @@
-I'm currently enrolled in Introduction to Security at Oregon State University (Winter 2025).
-
-I have completed:
-
-- Introduction to to Computer Science I & II
-- Discrete Structures in Computer Science
-- Web Development
-- Data Structures
-- Introduction to Databases
-- Software Enginieering I & II
-- Computer Architecture & Assembly Language
-- Operating Systems I
-- Networking
-- Programming Language Fundamentals
-- Usability Engineering
-- Algorithms
-
-After one more class, I will graduate at the end of Spring term 2025.
+I recently graduated from Oregon State University with a BS Computer Science degree.
 
 <!--
 **georgepence/georgepence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
